@@ -62,10 +62,40 @@ User taps → cube/cone appears on ground
 | IDE          | Android Studio                              |
 
 
-## How to Run This App
-Clone the repository:
+---
 
-git clone https://github.com/shreya-4567/ar-drill-master.git
-cd ar-drill-master
+## 🧑‍💻 About the Author
 
-Open the project in Android Studio.
+**Shreya Mangal** – A budding technologist pursuing B.Tech in Information Technology with interests in AR, Web Development, and AI/ML.  
+Currently building responsive and interactive experiences using Android ARCore and Three.js/WebXR.  
+View my GitHub profile: [github.com/shreya‑4567](https://github.com/shreya‑4567) :contentReference[oaicite:3]{index=3}
+
+---
+
+## 🗂 Project Status
+
+| Phase             | Status         |
+|------------------|----------------|
+| Drill Selection UI | ✅ Complete     |
+| ARCore Integration | ✅ Working      |
+| 3D Object Placement | ✅ Cube (static), expandable |
+| UI Polish & UX    | 🚧 In Progress  |
+| Sceneform 3D Models | 🚧 Yet to implement |
+
+---
+
+## 🎯 Future Work
+
+- Replace placeholder shapes with custom 3D drill models (GLTF, OBJ, or .sfb)
+- Enable multiple markers placement and persistence across sessions
+- Add drill-specific analytics (e.g., count taps, placement accuracy)
+- Polish UI with animations and smoother transitions
+
+---
+
+## 📚 References & Resources
+
+- ARCore Android developer guides and samples
+- Sceneform documentation or open-source alternatives
+- Android official docs for gesture and tap handling
+
