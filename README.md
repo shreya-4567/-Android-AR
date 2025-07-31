@@ -16,6 +16,13 @@ It allows the user to:
 - Tap on a real-world surface (like a floor) to place a virtual marker representing the selected drill.
 
 ---
+## 📽️ Live Demo
+
+Check out the working demo of the Android AR Drill Placement App in action:  
+🔗 [Click to View Demo on Google Drive](https://docs.google.com/document/d/1gVnie8r4L9sBhALaca5mnF2TTsrYXa3YHqOHSgQqabA/edit?usp=sharing)
+
+> 🎯 This video shows how users can select drills and place them on real-world surfaces using AR technology on Android devices.
+
 
 ## 🧱 Core Features
 
