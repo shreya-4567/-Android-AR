@@ -55,7 +55,7 @@ Git installed (optional)
 ## Setup Instructions
 Clone the Repository: 
 
-git clone https://github.com/shreya-4567/AR-Drill-Master.git
+git clone[ https://github.com/shreya-4567/AR-Drill-Master.git](https://github.com/shreya-4567/-Android-AR.git)
 Or download the ZIP and extract it.
 
 - Open in Android Studio
